@@ -15,9 +15,9 @@
 ```
 .
 ├───data
-│   └───metro_shokolad-batonchiki.csv      # собранные данные из категории "Шоколад и батончики"
+│   └───metro_shokolad-batonchiki.csv  # собранные данные из категории "Шоколад и батончики"
 ├───metro_parser                         
-│   └───main.py                            # скрипт по парсингу сайта магазина Metro
+│   └───main.py                        # скрипт по парсингу сайта магазина Metro
 ├───requirements.txt
 └───README.md
 ```
